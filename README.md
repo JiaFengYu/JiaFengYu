@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JiaFengYu, 3rd year uWaterloo CS
+- 👋 Hi, I’m @JiaFengYu, 3rd year uWaterloo CS+Math
 - 👀 I’m interested in Rust, OCaml, Arch Linux, Vim, AI/ML, systems and OS/kernel programming
 - 🌱 I’m currently learning Rust, OCaml
 - 📫 How to reach me: 
