@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JiaFengYu, fourth year uWaterloo CS+Math
-- 👀 I’m interested in Rust, OCaml, Arch Linux, Vim, AI/ML, systems and OS/kernel programming
+- 👀 I’m interested in Rust, OCaml, Arch Linux, Vim, AI/ML, systems programming, and quantum computing!
 - 🌱 I’m currently learning Rust, OCaml
 - 📫 How to reach me: 
 Email: jf2yu@uwaterloo.ca
