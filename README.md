@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @JiaFengYu, fourth year uWaterloo CS+Math
-- 👀 I’m interested in Rust, OCaml, Arch Linux, Vim, AI/ML, systems programming, and quantum computing!
-- 🌱 I’m currently learning Rust, OCaml
+- 👋 Hi, I’m Jayden (@JiaFengYu)!
+- I graduated from Waterloo with a BMath in computer science and a minor in pure mathematics (did an entire minor just to learn about Galois theory lol)
+- 👀 I’m currently a Production Engineer @ Meta Superintelligence Labs specializing in inference.
+
 - 📫 How to reach me: 
-Email: jf2yu@uwaterloo.ca
+Email: jaydenyu2001@gmail.com
 Linkedin: https://www.linkedin.com/in/jiafeng-yu/
 
 <!--- - 💞️ I’m looking to collaborate on ... --->
